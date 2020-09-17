@@ -19,7 +19,7 @@ void printsArrayAndString (String[]value) {
    println(value[i]);
   }
 }
-int returnSum(int[]numb) {
+int  returnSum(int[]numb) {
   int sum = 0;
   for (int i = 0; i<3; i++) {
     sum += numb[i];
